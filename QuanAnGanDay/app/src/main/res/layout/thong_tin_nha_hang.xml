@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imgHinhAnh"
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/tvTen"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/residential_places"
+        android:textStyle="bold"
+        android:background="@drawable/custom_button"
+        android:layout_height="wrap_content"
+        android:text=" Tên Nhà Hàng: " />
+
+    <TextView
+        android:id="@+id/tvDiaChi"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="5dp"
+
+        android:drawableLeft="@drawable/cake_shop"
+        android:layout_height="wrap_content"
+        android:text=" Địa Chỉ: " />
+
+    <TextView
+        android:id="@+id/tvSoDienThoai"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="5dp"
+
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/mobile_phones"
+        android:gravity="center"
+        android:text=" Số Điện Thoại: " />
+
+    <TextView
+        android:id="@+id/tvThoiGian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+
+        android:gravity="center"
+        android:drawableLeft="@drawable/accountancy"
+        android:text=" Thời Gian: " />
+
+    <TextView
+        android:id="@+id/tvDanhGia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+
+        android:drawableLeft="@drawable/parks"
+        android:gravity="center"
+        android:text=" Đánh Giá: " />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginBottom="0dp"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btnCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/xl_button"
+            android:drawableLeft="@drawable/phone"
+            android:text="Call" />
+
+        <Button
+            android:id="@+id/btnShare"
+            android:layout_width="wrap_content"
+            android:background="@drawable/xl_button"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/btnCall"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:drawableLeft="@drawable/share"
+            android:text="Chia sẻ" />
+
+        <Button
+            android:id="@+id/btnFaceBook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/xl_button"
+            android:layout_alignBaseline="@+id/btnShare"
+            android:layout_alignBottom="@+id/btnShare"
+            android:layout_alignParentEnd="true"
+            android:text="FB"
+            android:layout_alignParentRight="true"
+            android:drawableLeft="@drawable/facebook" />
+
+        <!--<Button-->
+            <!--android:id="@+id/buttonDanhGia"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/xl_button"-->
+            <!--android:text="Đánh giá"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_alignLeft="@+id/btnShare"-->
+            <!--android:layout_alignStart="@+id/btnShare" />-->
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

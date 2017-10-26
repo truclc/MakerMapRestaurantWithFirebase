@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.truccongle.themnhahang.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageButtonHinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <Button
+        android:id="@+id/buttonThem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thêm"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextNhaHang"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButtonHinh"
+        android:inputType="textPersonName"
+        android:hint="Nhập tên Nhà Hàng"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="16dp" />
+
+
+
+    <EditText
+        android:id="@+id/editTextDiaChi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nhập vào Địa chỉ"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextNhaHang"
+        android:inputType="textPostalAddress"
+        android:layout_marginStart="16dp" />
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextDiaChi"
+        android:ems="10"
+        android:hint="Nhập vào Số điện thoại"
+        android:inputType="phone"
+        android:maxLength="11"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="16dp" />
+    <EditText
+        android:id="@+id/editTextTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:inputType="text"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextPhone"
+        android:hint="Thời gian mở cửa"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="16dp" />
+
+
+    <EditText
+        android:id="@+id/editTextDanhGia"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:ems="5"
+        android:inputType="text"
+        android:hint="Đánh giá dịch vụ"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTime"
+        android:layout_marginStart="16dp" />
+
+    <EditText
+        android:id="@+id/editTextLat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:inputType="text"
+        app:layout_constraintTop_toBottomOf="@+id/editTextDanhGia"
+        android:hint="Nhập vào Kinh Độ"
+        android:layout_marginStart="16dp" />
+
+    <EditText
+        android:id="@+id/editTextLon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/editTextLat"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="5dp"
+        android:inputType="text"
+       android:hint="Nhập vào Vĩ Độ"
+        android:layout_marginStart="16dp" />
+
+    <!--<ListView-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="60dp"-->
+        <!--android:id="@+id/lvNhaHang"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/editTextLon"-->
+</android.support.constraint.ConstraintLayout>

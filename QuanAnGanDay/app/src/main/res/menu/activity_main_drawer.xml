@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/map_normal"
+            android:title="Bản đồ chỉ đường" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/map_ve_tinh"
+            android:title="Bản đồ vệ tinh" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/map"
+            android:title="Bản đồ địa hình" />
+        <item
+            android:id="@+id/nav_manage"
+            android:checked="true"
+            android:icon="@drawable/mylocation"
+            android:title="Tự định vị" />
+    </group>
+
+    <item android:title="Thông tin">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/about"
+                android:title="Thông tin ứng dụng" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Gửi phản hồi" />
+        </menu>
+    </item>
+
+</menu>

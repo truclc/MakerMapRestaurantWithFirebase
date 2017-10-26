@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuanAnGanDay</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="maps_type">
+        <item>MAP_TYPE_NONE</item>
+        <item>MAP_TYPE_NORMAL</item>
+        <item>MAP_TYPE_SATELLITE</item>
+        <item>MAP_TYPE_HYBRID</item>
+        <item>MAP_TYPE_TERRAIN</item>
+    </string-array>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/back2"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QUÁN ĂN GẦN ĐÂY" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_height="wrap_content"
+        android:text="Đồ Án 4" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:textStyle="italic"
+        android:text="GVHD:Nguyễn Văn Hậu" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sinh Viên:" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lê Công Trực" />
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vũ Gia Tuấn" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mọi thông tin xin liên hệ:" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:gravity="center"
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email:truccongle@gmail.com" />
+
+</LinearLayout>
