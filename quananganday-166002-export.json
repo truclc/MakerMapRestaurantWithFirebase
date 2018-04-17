@@ -1,0 +1,124 @@
+{
+  "NhaHang" : {
+    "-Kjf6Vej_-SANuQhX2Xq" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "QL5,Phố Nối,Nhân Hoà,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1494298262865.png?alt=media&token=3451d4ba-4aa5-4717-82e4-68e6a61732b8",
+      "Lat" : "20.932221",
+      "Lon" : "106.062641",
+      "Phone" : "02212225696",
+      "TenNhaHang" : "Thái Tử Gà",
+      "Time" : "Cả ngày"
+    },
+    "-KjfDRKkTrCt36-VmgJU" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "Phố Nối,Mỹ Hào,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1494299548654.png?alt=media&token=3725e3e7-43c9-4394-8c01-8be600ad934c",
+      "Lat" : "20.933200",
+      "Lon" : "106.070719",
+      "Phone" : "0982408898",
+      "TenNhaHang" : "Âm Thực Sinh Thái Sen Hồ",
+      "Time" : "08:00 - 21:00"
+    },
+    "-KjfK63f-QMHo_oWUDsR" : {
+      "DanhGia" : "Trung bình",
+      "DiaChi" : "Phố Nối,tt.Bần Yên Nhân,Yên Mỹ,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1494301829013.png?alt=media&token=3407fd25-2d0a-4b9a-b648-f502f9f1af0e",
+      "Lat" : "20.935372",
+      "Lon" : "106.051413",
+      "Phone" : "02213768666",
+      "TenNhaHang" : "Nhà Hàng Hương Việt",
+      "Time" : "Cả ngày"
+    },
+    "-KjfOmAslhrgk5Ag_PfG" : {
+      "DanhGia" : "Trung bình",
+      "DiaChi" : "Đường 196,Nhân Hòa,Mỹ Hào,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1494303053466.png?alt=media&token=a7f61ba6-62c4-49a0-af76-65f38f0abab5",
+      "Lat" : "20.940387",
+      "Lon" : "106.059147",
+      "Phone" : "01646908661",
+      "TenNhaHang" : "Diệu Linh",
+      "Time" : "09:00 - 21:00"
+    },
+    "-KjvIc9M-7ENzX5JuFTy" : {
+      "DanhGia" : "Rất tốt",
+      "DiaChi" : "Nghĩa Hiệp,tt.Yên Mỹ,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1494569875100.png?alt=media&token=e5ec3c7e-aa62-4042-9d1f-ed961f53aeee",
+      "Lat" : "20.928404",
+      "Lon" : "106.057999",
+      "Phone" : "02213974999",
+      "TenNhaHang" : "Cố Đô Hội Quán",
+      "Time" : "10:30 - 14:29, 16:30 - 20:30"
+    },
+    "-KksDvJqm7nUMioLOpYN" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "Phố Nối,tt Bần Yên Nhân,Mỹ Hào,Hưng Yên",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495592034991.png?alt=media&token=1ff752fc-8aeb-4bde-8218-793a490fe6e4",
+      "Lat" : "20.933484",
+      "Lon" : "106.058466",
+      "Phone" : "02213943961",
+      "TenNhaHang" : "Nhà Hàng Yến Ngọc",
+      "Time" : "Cả ngày"
+    },
+    "-KksExJCP4OvEtUZ7ynH" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "Phố Nối,tt Bần Yên Nhân,Mỹ Hào,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495592298607.png?alt=media&token=62648965-66a9-4fa0-98a4-9848355b7dcc",
+      "Lat" : "20.935497",
+      "Lon" : "106.058248",
+      "Phone" : "02216285555",
+      "TenNhaHang" : "Nhà Hàng Tân Quê",
+      "Time" : "Cả Ngày"
+    },
+    "-KksGIRa3ZIMf1HhjdIJ" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "Phố Nối.tt Bần Yên Nhân,Mỹ Hào,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495592652110.png?alt=media&token=f9a5faa0-e31e-4184-b56d-eb16f8899324",
+      "Lat" : "20.934608",
+      "Lon" : "106.053737",
+      "Phone" : "0983155967",
+      "TenNhaHang" : "Quán Ăn Vinh Thanh",
+      "Time" : "10:00 - 13:30 , 16:30 - 21:00"
+    },
+    "-KksIa4ut5DrMkjsqWwy" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "tt Bần Yên Nhân,Mỹ Hào,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495593262962.png?alt=media&token=98ec9951-dd07-40bd-a447-72de7c06f152",
+      "Lat" : "20.939532",
+      "Lon" : "106.058562",
+      "Phone" : "0989032818",
+      "TenNhaHang" : "Ẩm Thực Hà Thành",
+      "Time" : "Cả ngày"
+    },
+    "-KksJGmsBAhoG_rYKkNF" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "Chợ Bao Bì,Mỹ Hào,Hưng Yên",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495593449859.png?alt=media&token=d2ec38a6-c352-4649-8717-d73928586c05",
+      "Lat" : "20.939481",
+      "Lon" : "106.059678",
+      "Phone" : "01677873764",
+      "TenNhaHang" : "Hùng Tàu Quán 1",
+      "Time" : "Cả ngày"
+    },
+    "-KksKRgTkniqKfBay2e6" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "Chợ Bao Bì,Mỹ Hào,Hưng Yên,Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495593757266.png?alt=media&token=f3bb070e-1acd-43b5-bdfe-7abafa467fa3",
+      "Lat" : "20.939240",
+      "Lon" : "106.059717",
+      "Phone" : "01657124240",
+      "TenNhaHang" : "Nhà Hàng Phước Lộc",
+      "Time" : "Cả ngày"
+    },
+    "-Kksccp4qV5EF4ZNJLC3" : {
+      "DanhGia" : "Tốt",
+      "DiaChi" : "QL5,Mỹ Hào,Hưng Yên Việt Nam",
+      "HinhAnh" : "https://firebasestorage.googleapis.com/v0/b/quananganday-166002.appspot.com/o/image1495598770197.png?alt=media&token=63cf7ebf-02a8-45db-927f-36739f2184b2",
+      "Lat" : "20.930956",
+      "Lon" : "106.066552",
+      "Phone" : "01677873764",
+      "TenNhaHang" : "Hùng Tàu Quán 2",
+      "Time" : "Cả ngày"
+    }
+  }
+}
